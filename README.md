@@ -17,8 +17,9 @@
 
 [![Rafael De Oliveira github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelLfckkj&bg_color=000000&color=F0433C&line=F0433C&point=BD5A59&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-## Tecnologias que eu uso:
+<h3 align="center">
+Tecnologias que eu uso:
+</h3>
 <p align="center">
   <img align="center" alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
