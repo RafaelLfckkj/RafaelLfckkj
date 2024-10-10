@@ -11,15 +11,12 @@
 </p>
 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafaelLfckkj&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael De Oliveira github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLfckkj&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafaelLfckkj&show_icons=true&count_private=true&hide_border=true&title_color=F0433C&icon_color=F0433C&text_color=c9d1d9&bg_color=0d1117" alt="Rafael De Oliveira github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLfckkj&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 [![Rafael De Oliveira github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelLfckkj&bg_color=000000&color=F0433C&line=F0433C&point=BD5A59&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RafaelLfckkj&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 ## Tecnologias que eu uso:
 <p align="center">
