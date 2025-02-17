@@ -30,8 +30,8 @@
 </p>
 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafaelLfckkj&show_icons=true&count_private=true&hide_border=true&title_color=40C9A2&icon_color=40C9A2&text_color=c9d1d9&bg_color=0d1117" alt="Rafael De Oliveira github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLfckkj&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafaelLfckkj&show_icons=true&count_private=true&hide_border=true&title_color=40C9A2&icon_color=40C9A2&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" alt="Rafael De Oliveira github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLfckkj&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelLfckkj&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
