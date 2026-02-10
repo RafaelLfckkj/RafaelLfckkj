@@ -13,7 +13,7 @@
 <p align="center">
   <b>🎓 Formado em T.I no UNASP</b><br>
   <b>🎓 Estudando Ciencia da Computação no UNASP.</b><br>
-  <b>💻 Linguagens que estou utilizando e aprendendo: Reacj.js, Next.js, Angular </b>
+  <b>💻 Linguagens que estou utilizando e aprendendo: React.js, Next.js, Angular </b>
 </p>
 
 <img align="right" height="150" src="https://media.tenor.com/hOA-3J5QyFQAAAAM/luffy-one-piece.gif"  />
