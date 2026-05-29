@@ -59,11 +59,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RafaelLfckkj/RafaelLfckkj/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/RafaelLfckkj/RafaelLfckkj/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/RafaelLfckkj/RafaelLfckkj/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=RafaelLfckkj&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/RafaelLfckkj/RafaelLfckkj/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/RafaelLfckkj/RafaelLfckkj/main/github-metrics.svg" alt="metrics"/>
+  <img src="https://streak-stats.demolab.com?user=RafaelLfckkj&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
 </div>
 
 ###
