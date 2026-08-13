@@ -53,10 +53,10 @@
 
 [![Rafael's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelLfckkj&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Stats -->
+<!-- Stats (instância alternativa) -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RafaelLfckkj&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RafaelLfckkj&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafaelLfckkj&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaelLfckkj&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages"/>
 </div>
 
 <div align="center">
