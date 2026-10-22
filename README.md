@@ -9,7 +9,7 @@
 <!-- About Me -->
 <p align="center">
   <b>🎓 Computer Science student @ UNASP, São Paulo</b><br>
-  <b>🚀 Currently learning: Java, Spring Boot, Next.js, Node.js, TypeScript</b>
+  <b>🚀 Currently learning: Java, Spring Boot, Next.js, Node.js, TypeScript, AWS</b>
 <br>
 <b>⚡ Focused on Myself</b>
   <b>🔍 Open to internship opportunities</b>
