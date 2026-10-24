@@ -1,8 +1,8 @@
 <!-- Header Wave -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF79C6&section=header&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=B80C09&section=header&reversal=true"/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=FF79C6&background=00000000&center=true&vCenter=true&random=false&width=560&height=59&lines=Hi,+I'm+Rafael+Oliveira;Welcome+to+my+GitHub!;CS+Student+%40+UNASP;Future+Cloud+Security+Engineer" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=FF2D2D&background=00000000&center=true&vCenter=true&random=false&width=560&height=59&lines=Hi,+I'm+Rafael+Oliveira;Welcome+to+my+GitHub!;CS+Student+%40+UNASP;Future+Cloud+Security+Engineer" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -52,20 +52,19 @@
 
 ###
 
+<!-- Activity Graph (commits) -->
+<div align="center">
+  <img src="https://SEU-APP.vercel.app/graph?username=RafaelLfckkj&bg_color=282A36&color=FF2D2D&line=B80C09&point=FFFFFF&area=true&area_color=B80C09&hide_border=true" width="95%" alt="Rafael's github activity graph"/>
+</div>
+
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafaelLfckkj&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaelLfckkj&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafaelLfckkj&show_icons=true&theme=dracula&hide_border=true&title_color=FF2D2D&icon_color=B80C09" height="150" alt="stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaelLfckkj&layout=compact&theme=dracula&hide_border=true&title_color=FF2D2D" height="150" alt="languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RafaelLfckkj&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak"/>
-</div>
-
-<!-- Contribution Graph (fixed) -->
-<div align="center">
-  <h3>📈 Contribution Graph</h3>
-  <img src="https://ghchart.rshah.org/FF79C6/RafaelLfckkj" width="90%" alt="Rafael's contribution graph"/>
+  <img src="https://streak-stats.demolab.com?user=RafaelLfckkj&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&ring=B80C09&fire=B80C09&currStreakLabel=FF2D2D&currStreakNum=FF2D2D&sideNums=FF2D2D&sideLabels=FF2D2D" height="150" alt="streak"/>
 </div>
 
 <!-- Pacman -->
@@ -79,5 +78,5 @@
 
 <!-- Footer Wave -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF79C6&section=footer&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=B80C09&section=footer&reversal=true"/>
 </p>
