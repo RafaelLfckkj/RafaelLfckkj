@@ -1,17 +1,16 @@
 <!-- Header Wave -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=B80C09&section=header&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF79C6&section=header&reversal=true"/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=B80C09&background=282A36&center=true&vCenter=true&random=false&width=560&height=59&lines=Hi,+I'm+Rafael+Oliveira;Welcome+to+my+GitHub!;CS+Student+%40+UNASP" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=FF79C6&background=00000000&center=true&vCenter=true&random=false&width=560&height=59&lines=Hi,+I'm+Rafael+Oliveira;Welcome+to+my+GitHub!;CS+Student+%40+UNASP;Future+Cloud+Security+Engineer" alt="Typing SVG"/>
   </a>
 </p>
 
 <!-- About Me -->
 <p align="center">
   <b>🎓 Computer Science student @ UNASP, São Paulo</b><br>
-  <b>🚀 Currently learning: Java, Spring Boot, Next.js, Node.js, TypeScript, AWS</b>
-<br>
-<b>⚡ Focused on Myself</b>
+  <b>🚀 Currently learning: Java, Spring Boot, Next.js, Node.js, TypeScript, AWS</b><br>
+  <b>☁️ Goal: Cloud Security Engineer with AI specialization</b><br>
   <b>🔍 Open to internship opportunities</b>
 </p>
 
@@ -30,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="aws"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode"/>
 </div>
@@ -51,9 +52,7 @@
 
 ###
 
-[![Rafael's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelLfckkj&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Stats (instância alternativa) -->
+<!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafaelLfckkj&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaelLfckkj&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages"/>
@@ -63,15 +62,22 @@
   <img src="https://streak-stats.demolab.com?user=RafaelLfckkj&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak"/>
 </div>
 
-<!-- Snake -->
+<!-- Contribution Graph (fixed) -->
+<div align="center">
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://ghchart.rshah.org/FF79C6/RafaelLfckkj" width="90%" alt="Rafael's contribution graph"/>
+</div>
+
+<!-- Pacman -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelLfckkj/RafaelLfckkj/pacman-output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelLfckkj/RafaelLfckkj/pacman-output/pacman-contribution-graph.svg">
-    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/RafaelLfckkj/RafaelLfckkj/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RafaelLfckkj/RafaelLfckkj/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
 <!-- Footer Wave -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=B80C09&section=footer&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF79C6&section=footer&reversal=true"/>
 </p>
