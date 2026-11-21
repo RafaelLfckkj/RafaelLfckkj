@@ -48,6 +48,11 @@
   <a href="https://www.instagram.com/rafaellfckkj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
   </a>
+
+<a href="https://rafaellfcportifolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-B80C09?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="Portfolio"/>
+</a>
+
 </div>
 
 ###
